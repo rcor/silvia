@@ -1,0 +1,9 @@
+name: "EAS 543 examples page"
+output_dir: "."
+navbar:
+  title: "EAS 543 Exercise and Examples"
+  left:
+    - text: "P1"
+      href: index.html
+    - text: "P2"
+      href: about.html
